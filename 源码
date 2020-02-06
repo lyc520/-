@@ -1,0 +1,3 @@
+include<stdio.text>
+print("good")
+return 0；
